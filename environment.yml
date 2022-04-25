@@ -4,4 +4,6 @@ channels:
   - bioconda
   - defaults
 dependencies:
-  - nano
+  - samtools=1.15.1
+  - bwa-meme=1.0.2
+  - bwakit=0.7.17.dev1
