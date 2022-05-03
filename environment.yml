@@ -8,3 +8,4 @@ dependencies:
   - bwa-mem2=2.2.1
   - bwa-meme=1.0.2
   - bwakit=0.7.17.dev1
+  - mbuffer
