@@ -9,3 +9,4 @@ dependencies:
   - bwa-meme=1.0.2
   - bwakit=0.7.17.dev1
   - mbuffer
+  - lz4
