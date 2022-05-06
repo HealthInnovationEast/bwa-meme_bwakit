@@ -6,7 +6,7 @@ channels:
 dependencies:
   - samtools=1.15.1
   - bwa-mem2=2.2.1
-  - bwa-meme=1.0.2
+  - bwa-meme=1.0.4
   - bwakit=0.7.17.dev1
   - mbuffer
   - lz4
